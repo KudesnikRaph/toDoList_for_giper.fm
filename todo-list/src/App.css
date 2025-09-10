@@ -1,0 +1,17 @@
+input {
+  padding: 10px;
+  font-size: 16px;
+  width: 300px;
+  margin-right: 10px;
+}
+
+addBtn {
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+todo {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
